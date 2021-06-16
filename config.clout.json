@@ -3,7 +3,7 @@
   "disablePayment": false,
   "coin": {
     "name": "BitClout",
-    "symbol": "BTCLT"
+    "symbol": "CLOUT"
   },
   "algorithm": {
     "name": "sha3",
